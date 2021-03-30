@@ -49,9 +49,16 @@ Stap2:  GAMELOOP
    - Testen
 
 --------------------------------------------------------------------------
-Stap3: 
+Stap3: BALL & RECTANGLE CLASS
 --------------------------------------------------------------------------
-
+   
+   - Ball Class aanmaken (ball.js)
+   - Rectangle Class aanmaken (rectangle.js)
+   - Vector Class aanmaken (vector.js)
+   - Overerving en Extends
+   - Ball instance
+   - Ball tekenen
+   - Testen
 
 --------------------------------------------------------------------------
 Stap4: 
