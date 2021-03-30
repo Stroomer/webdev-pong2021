@@ -19,6 +19,8 @@ class Game
             window.requestAnimFrame(callback);
         }
         callback();
+
+        console.log(this.ball.size.y);
     }
 
     update(deltatime) {

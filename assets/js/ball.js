@@ -1,8 +1,7 @@
 class Ball extends Rectangle
 {
     constructor(x=0, y=0, color='white') {
-        super(x, y, 24, 24);
-        this.color  = color;
+        super(x, y, 24, 24, color);
         this.speed  = 0;
         this.startX = x;
         this.startY = y;
