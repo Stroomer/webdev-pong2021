@@ -61,19 +61,32 @@ Stap3: BALL & RECTANGLE CLASS
    - Testen
 
 --------------------------------------------------------------------------
-Stap4: 
+Stap4: BALL & SIMPLE COLLISION
 --------------------------------------------------------------------------
 
+   - Uitleg: Positie en velocity
+   - Object Ball laten bewegen
+   - Uitleg: Botsing met behulp van 'omdraaien velocity'
+   - Object Ball laten botsen
+   - Uitleg: function voor 'genereren van random getallen'
+   - Uitdaging: Maak 200 ballen aan die een random richting hebben en 
+     allemaal botsen met de vier zijkanten van het speelveld.
+     (de ballen botsen niet met elkaar)
 
 --------------------------------------------------------------------------
-Stap5: 
+Stap5: PLAYER
 --------------------------------------------------------------------------
 
+   - Player Class aanmaken (player.js)
+   - Uitleg: new Object in een array
+   - Object Player laten bewegen
 
 --------------------------------------------------------------------------
-Stap6: 
+Stap6: PLAYER & INPUT
 --------------------------------------------------------------------------
 
+   - Uitleg: Event's KEY_DOWN en KEY_UP opvangen
+   - Game function checkInput aanmaken
 
 --------------------------------------------------------------------------
 Stap7: 
