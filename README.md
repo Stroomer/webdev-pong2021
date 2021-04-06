@@ -73,6 +73,11 @@ Stap4: BALL & SIMPLE COLLISION
      allemaal botsen met de vier zijkanten van het speelveld.
      (de ballen botsen niet met elkaar)
 
+     Tips: * Kijk in game.js waar Object Ball wordt aangemaakt
+           * Gebruik niet this.ball maar this.balls en zorg dat this.balls een array is
+           * Op de plek waar this.ball getekend werd, daar moet this.balls met behulp 
+             van een FOR-loop geupdatet (update) en getekend (draw) worden 
+
 --------------------------------------------------------------------------
 Stap5: PLAYER
 --------------------------------------------------------------------------
